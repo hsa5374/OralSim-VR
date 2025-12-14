@@ -36,8 +36,3 @@ This simulation provides a sustainable, repeatable, and interactive alternative 
 3. Install the **Meta XR SDK** (formerly Oculus Integration)  
 4. Connect a Meta Quest headset  
 5. Press **Play in Editor** or build to Quest via **Android → Build & Run**
-
----
-
-## 📄 License
-This project is licensed under the **MIT License**.

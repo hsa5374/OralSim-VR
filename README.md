@@ -7,7 +7,7 @@ This simulation provides a sustainable, repeatable, and interactive alternative 
 
 ---
 
-## 🚀 Features
+## Features
 - Fully immersive VR dental operatory scene
 - Realistic patient model with dirty teeth
 - Tool interactions: mouth mirror, explorer, ultrasonic scaler, suction, and more
@@ -20,7 +20,7 @@ This simulation provides a sustainable, repeatable, and interactive alternative 
 
 ---
 
-## 🛠️ Technologies Used
+## Technologies Used
 - **Unity Engine (2021+ or 2022/2023 LTS)**
 - **Meta XR / Oculus SDK**
 - **C# scripting**
@@ -30,7 +30,7 @@ This simulation provides a sustainable, repeatable, and interactive alternative 
 
 ---
 
-## ▶️ How to Run
+## How to Run
 1. Clone the repository  
 2. Open the project in **Unity 2022/2023 LTS**  
 3. Install the **Meta XR SDK** (formerly Oculus Integration)  
